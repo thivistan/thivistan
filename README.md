@@ -1,3 +1,4 @@
+<img src="https://imgtr.ee/images/2023/10/17/4d657626531a7ffe29c5a49725b32204.png" alt="Banner Image">
 <h1 align="center">Hi 👋, I'm Thivstan Vishal James</h1>
 <h3 align="center">Architecting Seamless Experiences with Full-Stack Wizardry 🚀 From UI Elegance to Backend Brilliance 💡 Turning Code into Creative Solutions 🌟</h3>
 
